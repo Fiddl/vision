@@ -10,9 +10,9 @@ http://nates.space/2016/01/13/face-recognition-with-opencv-on-raspberry-pi-c/
 You will need OpenCV 3.0 or above installed.
 
 ## Running
-```
-./vision <Detection Model File> <Recognition Model File>
-```
+'''
+./vision	Detection_Model_File	Recognition_Model_File
+'''
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
