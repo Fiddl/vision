@@ -11,7 +11,7 @@ You will need OpenCV 3.0 or above installed.
 
 ## Running
 '''
-./vision	Detection_Model_File	Recognition_Model_File
+./vision <Detection Model File> <Recognition Model File>
 '''
 ## License
 
